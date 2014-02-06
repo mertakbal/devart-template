@@ -1,8 +1,8 @@
 # Avian Flight Simulator
 Insert the name of your project
 
-## Authors
-- Insert main author Mert, Akbal, https://github.com/mertakbal
+## Mert, Akbal, https://github.com/mertakbal
+
 
 
 ## Description
