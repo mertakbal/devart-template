@@ -1,5 +1,4 @@
 # Avian Flight Simulator
-Insert the name of your project
 
 ## Mert, Akbal, https://github.com/mertakbal
 
