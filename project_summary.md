@@ -1,4 +1,4 @@
-# Project Title
+# Avian Flight Simulator
 Insert the name of your project
 
 ## Authors
